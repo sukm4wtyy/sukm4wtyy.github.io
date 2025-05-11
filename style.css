@@ -10,3 +10,11 @@
 section {
     padding-top: 5rem;
 }
+.gallery-img {
+    width: 100%;
+
+}
+/* menghilangkan semua padding yang ada di dalam row di dalam  gallery */
+#gallery .row > * {
+    padding: 0;
+}
